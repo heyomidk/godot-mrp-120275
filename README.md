@@ -24,7 +24,7 @@ E 0:00:00:843   main.gd:12 @ _ready(): ShapedTextDataAdvanced invalid.
 Errors do not spam with with Godot 4.7-rc1.
 
 ### Other notes
-- The errors only appear when the default font uses `MSDF`. Turn `MSDF` off and they stop.
+- The errors only appear when the default font uses `MSDF`.
 - The error appears to be intermittent. Because this repo spams labels you can see the number of errors varies with each run.
 
 <br>
