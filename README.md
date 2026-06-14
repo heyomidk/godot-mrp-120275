@@ -1,6 +1,10 @@
 # godot-mrp-120275
 
-Minimal repro for [godotengine/godot#120275](https://github.com/godotengine/godot/issues/120275).
+Minimal repro for 
+- [godotengine/godot#120295](https://github.com/godotengine/godot/issues/120295)
+- [godotengine/godot#120275](https://github.com/godotengine/godot/issues/120275)
+
+<br>
 
 Run on **Godot 4.7-rc2**. Adding a bunch of `Label` to a `Container` spams the console:
 
